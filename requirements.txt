@@ -1,2 +1,10 @@
 fastapi==0.100.1
 uvicorn[standard]==0.23.2
+httpie
+httpx
+pydantic
+requests
+sqlalchemy
+psycopg2
+python-dotenv
+pytest
